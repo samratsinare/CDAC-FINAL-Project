@@ -1,0 +1,40 @@
+
+   
+     Scope of project 
+	 
+	      1.CareConnect is an perfect solution as it is a centralized app which connects patient and doctor with 
+		  
+		   a unique ID once registered and storing, updating as well as scheduling another doctor of another hospital can be used
+		   
+		   for smaller hospital(opd's) as well
+		   
+		  2.Sceduling Docters Appointment
+		  
+		  3.Chat Box /Help desk (24*7)
+		  
+		  4.To check the patient medical history you have to make adhar number verification with Patient / mobile number (otp)
+		  
+		  5.Filter as per the distance (minimun distance)algorithm
+		  
+		  
+		  
+		 Future Implementation(if time permits)
+		
+		    1.Mainting the insurance polices of user
+			
+	                     2.Online ordering of medicine 
+			
+			
+		Models
+			
+			1.Patient
+			
+			2.Hospital / docter
+			
+			3.Insurance (future scope)
+			
+		    
+			
+			
+			      
+			      
