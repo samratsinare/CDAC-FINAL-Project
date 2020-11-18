@@ -23,7 +23,9 @@
 		    1.Mainting the insurance polices of user
 			
 	                     2.Online ordering of medicine 
-			
+			3. Online adviser for patient and medicine
+			4. Discount 
+			5. easilty avilabale time 
 			
 		Models
 			
@@ -34,7 +36,7 @@
 			3.Insurance (future scope)
 			
 		    
-			
+					
 			
 			      
 			      
